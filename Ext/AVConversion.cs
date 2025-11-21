@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AVOS.API.Extensions.Authors.AndreyPepper.AVConversion
+namespace APIAVOS.API.Extensions.Authors.AndreyPepper.AVConversion
 {
 
     public static class AVConversion
@@ -157,4 +157,5 @@ namespace AVOS.API.Extensions.Authors.AndreyPepper.AVConversion
             return result.ToString();
         }
     }
+
 }
